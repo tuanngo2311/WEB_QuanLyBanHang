@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/PS13389_NgoHoangAnhTuan_ASM_Final/db-lib-image/lib/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/PS13389_NgoHoangAnhTuan_ASM_Final/db-lib-image/lib/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/PS13389_NgoHoangAnhTuan_ASM_Final/db-lib-image/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/PS13389_NgoHoangAnhTuan_ASM_Final/db-lib-image/lib/javax.servlet.jsp.jstl-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/PS13389_NgoHoangAnhTuan_ASM_Final/db-lib-image/lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/PS13389_NgoHoangAnhTuan_ASM_Final/db-lib-image/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/PS13389_NgoHoangAnhTuan_ASM_Final/db-lib-image/lib/poi-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/PS13389_NgoHoangAnhTuan_ASM_Final/db-lib-image/lib/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/PS13389_NgoHoangAnhTuan_ASM_Final/db-lib-image/lib/selenium-server-standalone-3.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/PS13389_NgoHoangAnhTuan_ASM_Final/db-lib-image/lib/sqljdbc4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

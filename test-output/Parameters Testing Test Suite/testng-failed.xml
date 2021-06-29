@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Parameters Testing Test Suite]">
+  <test thread-count="5" name="Parameters Testing(failed)">
+    <parameter name="UserName" value="demo"/>
+    <parameter name="Passcode" value="PASSWORD"/>
+    <classes>
+      <class name="bai03.ParametersTesting">
+        <methods>
+          <include name="OpenBrowser"/>
+        </methods>
+      </class> <!-- bai03.ParametersTesting -->
+    </classes>
+  </test> <!-- Parameters Testing(failed) -->
+</suite> <!-- Failed suite [Parameters Testing Test Suite] -->
